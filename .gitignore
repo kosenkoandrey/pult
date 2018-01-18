@@ -1,12 +1,10 @@
 /nbproject/
-/conf.php
 
 /protected/modules/Cloning
 
 /protected/modules/Costs/adsapi_php.ini
 /protected/modules/DB/conf.php
 
-/protected/modules/SendThis/conf.php
 /protected/modules/SendThis/daemon/config.json
 /protected/modules/SendThis/daemon/sendthis20
 
