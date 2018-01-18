@@ -1,0 +1,97 @@
+#sidebar-wrapper {
+	width: 60px;
+	background: #222;
+	position: absolute;
+	height: 360px;
+	z-index: 2;
+	transition: all .4s ease 0s;
+}
+
+#sidebar_menu li a, .sidebar-nav li a {
+	color: #ffffff;
+	display: block;
+	float: left;
+	width: 60px;
+	background: #222222;
+}
+
+.sidebar-nav {
+	display: block;
+	float: left;
+	width: 80px;
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+.sidebar-nav li {
+	height: 50px;
+	text-indent: 20px;
+}
+
+.sidebar-nav li a {
+	color: #ffffff;
+	display: block;
+	text-decoration: none;
+}
+
+.sidebar-nav li a .fa {
+	display: block !important;
+}
+
+#sidebar-opzioni {
+	margin-left: 60px;
+	width: 250px;
+	background: #dedede;
+	position: absolute;
+	z-index: 1;
+	height: 100%;
+	display: none;
+}
+
+#sidebar-editor {
+	width: 380px;
+	background: #dedede;
+	position: fixed;top:0px;
+	z-index: 99;
+	height: 100%;
+	display: none;
+	padding: 5px;
+	right: 0;
+	/*margin-top: -355px;*/
+
+}
+
+#wrapper {
+	margin-right: 60px !important;
+        min-height: 320px;
+}
+
+#tosave {
+        background: #eeeeee;
+	margin-left: 60px;
+	width: 100%;
+}
+
+.active3 {
+	margin-left: 330px !important;
+	margin-right: -300px !important;
+}
+
+.tab-content .active{
+	display: block !important;
+}
+
+#imageproperties{
+	background: #EDEDED ;
+	padding: 4px;
+	border: 1px solid #cccccc ;
+}
+
+.canvas {
+	padding: 10px;
+}
+
+.lyrow{
+	display:block;
+}

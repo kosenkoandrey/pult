@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'robotobold';
+    src: url("Roboto-Bold-webfont.eot"/*tpa=http://1popov.ru/disc83/fonts/roboto_bold_cyrillic/Roboto-Bold-webfont.eot*/);
+    src: url("Roboto-Bold-webfont.eot-#iefix"/*tpa=http://1popov.ru/disc83/fonts/roboto_bold_cyrillic/Roboto-Bold-webfont.eot?#iefix*/) format('embedded-opentype'),
+         url("Roboto-Bold-webfont.woff"/*tpa=http://1popov.ru/disc83/fonts/roboto_bold_cyrillic/Roboto-Bold-webfont.woff*/) format('woff'),
+         url("Roboto-Bold-webfont.ttf"/*tpa=http://1popov.ru/disc83/fonts/roboto_bold_cyrillic/Roboto-Bold-webfont.ttf*/) format('truetype'),
+         url("Roboto-Bold-webfont.svg#robotobold"/*tpa=http://1popov.ru/disc83/fonts/roboto_bold_cyrillic/Roboto-Bold-webfont.svg#robotobold*/) format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

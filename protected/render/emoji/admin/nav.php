@@ -1,0 +1,1 @@
+<li><a href="<?= APP::Module('Routing')->root ?>admin/emoji">Управление</a></li>

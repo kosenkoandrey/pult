@@ -1,0 +1,1 @@
+location.replace("ie/ie.html");

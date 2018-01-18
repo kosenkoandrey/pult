@@ -1,0 +1,17 @@
+#mailiq-embed-signup {
+                display: inline-block;
+                border: 1px solid #111111;
+                padding: 30px;
+            }
+            #mailiq-embed-signup_email {
+                display: inline-block;
+                border: 1px solid #111111;
+                padding: 5px;
+            }
+            #mailiq-embed-signup_submit {
+                display: inline-block;
+                background: #FFFFFF;
+                border: 1px solid #111111;
+                padding: 5px;
+                cursor: pointer;
+            }
